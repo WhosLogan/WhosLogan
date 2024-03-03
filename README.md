@@ -15,4 +15,4 @@ A passionate reverse engineer, developer, and currently a student at a universit
 - [DnSpyEx](https://github.com/dnspyex)
 - [Obsidian](https://obsidian.md)
 
-![WhosLogan's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhosLogan&show_icons=true&theme=radical&hide=contribs,prs,stars)
+![WhosLogan's GitHub stats](https://github-readme-stats-neon-nine-69.vercel.app/api?username=WhosLogan&show_icons=true&theme=radical&hide=contribs,prs,stars)
