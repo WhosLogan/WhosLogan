@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there, I'm Logan 👋
 
-<!--
-**WhosLogan/WhosLogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate reverse engineer, developer, and currently a student at a university. Despite my university status, I'm almost entirely self taught and I love to learn new things on my own.
 
-Here are some ideas to get you started:
+### Things I Enjoy
+- Malware Analysis
+- Software & Web Development
+- Reverse Engineering
+- Exploit Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools I Use
+- [Binary Ninja](https://binary.ninja)
+- [JetBrains](https://jetbrains.com)
+- [Hoppscotch](https://hoppscotch.com)
+- [DnSpyEx](https://github.com/dnspyex)
+- [Obsidian](https://obsidian.md)
+
+![WhosLogan's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhosLogan&show_icons=true&theme=radical&hide=contribs,prs,stars)
