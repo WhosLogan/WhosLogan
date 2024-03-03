@@ -1,6 +1,6 @@
 ## Hi there, I'm Logan 👋
 
-A passionate reverse engineer, developer, and currently a student at a university. Despite my university status, I'm almost entirely self taught and I love to learn new things on my own.
+A passionate reverse engineer, developer, and currently a student at a university. Despite my university status, I'm almost entirely self taught and I love to learn new things on my own. I love teaching new concepts to people and I currently host my own public [notes](https://notes.loganthe.dev) to which I publish cool things I've learned over the years.
 
 ### Things I Enjoy
 - Malware Analysis
